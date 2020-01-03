@@ -1,7 +1,2 @@
 张怡丹同学
-<<<<<<< HEAD
-zhangzhang
-=======
-git修改了一下
-123
->>>>>>> branch 'master' of git@github.com:zhangyidan0721/eclipseGit.git
+
